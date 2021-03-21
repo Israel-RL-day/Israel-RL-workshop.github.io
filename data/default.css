@@ -259,3 +259,8 @@ tr.row_type_B td {
     text-align: left;    
   }
 
+#schedule td{
+    padding: 5px;
+    font-size: 16px;
+}
+
